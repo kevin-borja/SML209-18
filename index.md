@@ -12,6 +12,3 @@
   <li>youtube</li>
   <li>WordReference</li>
 </ul>  
-
-</body>
-</html>
