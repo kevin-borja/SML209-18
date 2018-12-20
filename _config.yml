@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Kevin's site
+description: Learning today
+github:
+  page2: Vocabulary.html
+  page3: Gender.html
+  page4: Grammar.html
+  page5: Morphology.html
+  
