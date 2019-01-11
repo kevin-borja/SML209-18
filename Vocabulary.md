@@ -27,6 +27,6 @@
 
 <p> A viable and trust-worthy online dictionary will be linked below for people who are familiar with the basics.</p>
 <dl>
- <dt>dictionary</dt>
+ <dt>Online dictionary:</dt>
  <dd> <a href="http://www.wordreference.com/"> Visit Wordreference</a> </dd>
   </dl>
