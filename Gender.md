@@ -15,16 +15,16 @@
 <p>the rule conveys that the word a word ending with an -a are feminine and words ending with an -o is masculine.</p>
 
 <span>
-   <ul style="list-style-type: none; display: inline-block;">
-      <li>Masculine</li>
-      <li>el niño &#8594; the boy</li>
-     <li>los niños &#8594; the boys</li>
-   </ul>
+   <dl style="list-style-type: none; display: inline-block;">
+      <dt>Masculine</dt>
+      <dd>el niño &#8594; the boy</dd>
+     <dd>los niños &#8594; the boys</dd>
+   </dl>
 
-   <ul style="list-style-type: none; display: inline-block;">
-      <li>Feminine</li>
-      <li>la niña &#8594; the girl</li>
-        <li>las niñas &#8594; the girls</li>
-   </ul>
+   <dl style="list-style-type: none; display: inline-block;">
+      <dt>Feminine</dt>
+      <dd>la niña &#8594; the girl</dd>
+        <dd>las niñas &#8594; the girls</dd>
+   </dl>
 <span>
   
