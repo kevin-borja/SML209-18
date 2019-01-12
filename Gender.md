@@ -14,4 +14,20 @@
 
 <p>the rule conveys that the word a word ending with an -a are feminine and words ending with an -o is masculine.</p>
 
-
+<div style="float: left; width: 50%;">
+<dl>
+<dl>
+ <dt>Masculine singular</dt>
+ <dd>el niño</dd>
+ <dt>Masculine plural</dt>
+ <dd>los niños</dd>
+</dl>
+</div>
+<div style="float: right; width: 50%;">
+<dl>
+ <dt>feminine singular</dt>
+ <dd>la niña</dd>
+ <dt>feminine plural</dt>
+ <dd>las niñas</dd>
+</dl>
+</div>
