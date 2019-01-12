@@ -16,12 +16,15 @@
 
 <span>
    <ul style="list-style-type: none; display: inline-block;">
-      <li>1</li>
-      <li>2</li>
+      <li>Masculine</li>
+      <li>el niño</li>
+     <li>los niños</li>
    </ul>
 
    <ul style="list-style-type: none; display: inline-block;">
-      <li>3</li>
-      <li>4</li>
+      <li>Feminine</li>
+      <li>la niña</li>
+        <li>las niñas</li>
    </ul>
 <span>
+  
