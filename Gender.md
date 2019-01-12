@@ -29,7 +29,7 @@
 <span>
   
 <hr>
-<p>however, not all words in spanish end in -o or -a, and not all the words that end in -o or -a follow the rule. Like all rules in language there is an exeception to this.</p>
+<p>However, not all words in spanish end in -o or -a, and not all the words that end in -o or -a follow the rule. Like all rules in language there is an exeception to this.</p>
 
 <span>
    <dl style="list-style-type: none; display: inline-block;">
