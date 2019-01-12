@@ -88,7 +88,7 @@
      <tr>
       <td>ellos</td>
        <td><strong>-en<strong></td>
-       <td>com<strong>en<strong>
+         <td>com<strong>en</td>
     </tr>
     <table>
       <hr>
