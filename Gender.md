@@ -28,3 +28,26 @@
    </dl>
 <span>
   
+<hr>
+<p>however, not all words in spanish end in -o or -a, and not all the words that end in -o or -a follow the rule. Like all rules in language there is an exeception to this.</p>
+
+<span>
+   <dl style="list-style-type: none; display: inline-block;">
+      <dt>Masculine</dt>
+      <dd>el mapa &#8594; the map</dd>
+     <dd>los mapas &#8594; the maps</dd>
+   </dl>
+
+   <dl style="list-style-type: none; display: inline-block;">
+      <dt>Feminine</dt>
+      <dd>la foto &#8594; the photo</dd>
+  dd>las fotos &#8594; the photos</dd>
+   </dl>
+<span>
+  
+  <p>The examples shows words that do not follow the rule conveyed. These two words are often mistaken my learners of the language, but words like these that have an -o or sound like an -o at the beginning of the word and end with it, it usually takes the opposite gender.</p>
+  
+  <hr>
+ <click on dots on the image to learn new vocabulary and look closely to the article. Is there a pattern? If so, what is it. 
+ <iframe src="https://h5p.org/h5p/embed/406480" width="1090" height="795" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ 
