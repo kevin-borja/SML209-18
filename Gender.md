@@ -17,14 +17,14 @@
 <span>
    <ul style="list-style-type: none; display: inline-block;">
       <li>Masculine</li>
-      <li>el niño</li>
-     <li>los niños</li>
+      <li>el niño &#8594; the boy</li>
+     <li>los niños &#8594; the boys</li>
    </ul>
 
    <ul style="list-style-type: none; display: inline-block;">
       <li>Feminine</li>
-      <li>la niña</li>
-        <li>las niñas</li>
+      <li>la niña &#8594; the girl</li>
+        <li>las niñas &#8594; the girls</li>
    </ul>
 <span>
   
