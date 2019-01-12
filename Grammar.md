@@ -8,11 +8,11 @@
   <h3>Examples of the pronouns in a sentences</h3>
 <dl>
  <dt>pronoun</dt>
-  <dd>- <span style="color:red; yo</span> <span style="color:blue;me </span> llamo...</dd>
+  <dd>- <font color="red">yo</font> me llamo...</dd>
   <dd>'my name is...</dd>
- <dd>- <span style="color:red;ellos</span> se llaman...</dd>
+ <dd>- ellos se llaman...</dd>
   <dd>'their names are...</dd>
-  <dd>- <span style="color:red;ellos</span> viven en España</dd>
+  <dd>- ellos viven en España</dd>
   <dd>'they live in Spain</dd>
   </dl>
   <p>Both examples have both pronouns highlighted, the subject pronoun is in red and the reflexive pronoun is in blue.The first example is written in the singular tense and second example is written in plural. In Spanish, when the subject performs an action on itself it means that the verb and the pronoun are reflexive. In the examples above the verb 'llamar' means to to call, and it is conjugated in accordance to the subject, ergo it is written as a singular verb 'llamo' and is placed after the pronoun 'me'. The last example simply adds an object into the sentence at the end which is 'España' meaning Spain.</p>
