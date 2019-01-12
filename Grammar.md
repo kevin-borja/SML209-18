@@ -1,4 +1,4 @@
-<h2>Grammar</h2>
+<h2> style="border: 2px solid Tomato;">Grammar</h2>
 <p>Grammar or syntax is the combination words forming a well-constructed sentence. It is noteworthy to mention that Spanish usually abids the Subject, Verb, Object sentence structure.</p>
 <hr>
 
