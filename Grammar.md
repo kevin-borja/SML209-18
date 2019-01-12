@@ -67,28 +67,28 @@
     </tr>
       <tr>
        <td>yo</td>
-      <td><strong>-o<strong></td>
-       <td>com<strong>o<strong></td>
+      <td>-o</td>
+       <td>como</td>
     <tr>
       <td>tú</td>
-      <td><strong>-es<strong></td>
-       <td>com<strong>es<strong></td>
+      <td>-es</td>
+       <td>comes</td>
     </tr>
      <tr>
       <td>él</td>
-       <td><strong>-e>strong>/td>
-        <td>com<strong>e<strong></td>
+       <td>-e</td>
+        <td>come</td>
       </tr>
      <tr>
       <td>nosotros</td>
-       <td><strong>-emos<strong></td>
-       <td>com<strong>emos<strong></td>
+       <td>-emos</td>
+       <td>comemos</td>
     </tr>
   </tr>
      <tr>
       <td>ellos</td>
-       <td><strong>-en<strong></td>
-         <td>com<strong>en</td>
+       <td>-en</td>
+         <td>comen</td>
     </tr>
     <table>
       <hr>
