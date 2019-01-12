@@ -66,7 +66,7 @@
     <th>COMER</th>
     </tr>
       <tr>
-       <td> <strong>yo<strong> </td>
+       <td><strong>yo<strong></td>
       <td>-o</td>
        <td>como</td>
     <tr>
