@@ -95,7 +95,13 @@
     <table>
       <hr>
       <p> <a href="http://www.learnspanishtoday.com/learning_module/verbs_er.htm/">For homework</a>, study the -IR and -AR ending verbs and learn the conjugation rules in present tense.</p>
-       <p> For now click the link below to the following exercise and use the -ER verb conjugation and the pronoun rule to complete the following sentences.
-        link: </p>
+       <p> For now click the link below to the following exercise and use the -ER verb conjugation and the pronoun rule to complete the following sentences. </p>
+      
+      <p>
+<a style="float:right;" href="Exercise.html">Go to Exercise</a>
+</p>
+<div style="clear:both;">  </div>
+
+
        
     
