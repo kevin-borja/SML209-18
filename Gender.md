@@ -14,21 +14,14 @@
 
 <p>the rule conveys that the word a word ending with an -a are feminine and words ending with an -o is masculine.</p>
 
-<<div style="float: left; width: 50%;">
-<ul>
-<li>Left Item 1</li>
-<li>Left Item 2</li>
-<li>Left Item 3</li>
-<li>Left Item 4</li>
-<li>Left Item 5</li>
-</ul>
-</div>
-<div style="float: right; width: 50%;">
-<ul>
-<li>Right Item 1</li>
-<li>Right Item 2</li>
-<li>Right Item 3</li>
-<li>Right Item 4</li>
-<li>Right Item 5</li>
-</ul>
-</div>
+<span>
+   <ul style="list-style-type: none; display: inline-block;">
+      <li>1</li>
+      <li>2</li>
+   </ul>
+
+   <ul style="list-style-type: none; display: inline-block;">
+      <li>3</li>
+      <li>4</li>
+   </ul>
+<span>
