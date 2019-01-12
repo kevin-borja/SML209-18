@@ -8,7 +8,7 @@
   <h3>Examples of the pronouns in a sentences</h3>
 <dl>
  <dt>pronoun</dt>
- <dd>- Yo me llamo...</dd>
+  <dd>- Yo<span style="color:red; </span> me<span style="color:blue; </span> llamo...</dd>
   <dd>'my name is...</dd>
  <dd>- ellos se llaman...</dd>
   <dd>'their names are...</dd>
@@ -45,13 +45,11 @@
        <td>comió</td>
        <td>comerá</td>
     </tr>
-    </tr>
      <tr>
       <td>nosotros</td>
        <td>comemos</td>
        <td>comimos</td>
        <td>comeremos</td>
-    </tr>
   </tr>
      <tr>
       <td>ellos</td>
