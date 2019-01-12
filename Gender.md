@@ -41,7 +41,7 @@
    <dl style="list-style-type: none; display: inline-block;">
       <dt>Feminine</dt>
       <dd>la foto &#8594; the photo</dd>
-  dd>las fotos &#8594; the photos</dd>
+  <dd>las fotos &#8594; the photos</dd>
    </dl>
 <span>
   
