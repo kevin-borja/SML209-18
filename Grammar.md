@@ -15,7 +15,7 @@
   <dd>- <font color="ellos">yo</font> viven en España</dd>
   <dd>'they live in Spain</dd>
   </dl>
-  <p>Both examples have both pronouns highlighted, the subject pronoun is in red and the reflexive pronoun is in blue.The first example is written in the singular tense and second example is written in plural. In Spanish, when the subject performs an action on itself it means that the verb and the pronoun are reflexive. In the examples above the verb 'llamar' means to to call, and it is conjugated in accordance to the subject, ergo it is written as a singular verb 'llamo' and is placed after the pronoun 'me'. The last example simply adds an object into the sentence at the end which is 'España' meaning Spain.</p>
+  <p>Both examples have both pronouns highlighted, the subject pronoun is in <font color="red">red</font and the reflexive pronoun is in <font color="blue">blue</font>.The first example is written in the singular tense and second example is written in plural. In Spanish, when the subject performs an action on itself it means that the verb and the pronoun are reflexive. In the examples above the verb 'llamar' means to to call, and it is conjugated in accordance to the subject, ergo it is written as a singular verb 'llamo' and is placed after the pronoun 'me'. The last example simply adds an object into the sentence at the end which is 'España' meaning Spain, and the verb 'viven' to live..</p>
   <hr>
   <p>Now that we understand pronouns, we shall learn about conjugation. Many students fail to write well-constructed sentences because of grammatical errors, conjugation being the most common mistake made. Although, like most things in Spanish conjugation usually follows a rule, but there are irregular words that do not and thus, those irregular words most be learned apart.</p>
   <p>First of all, what is conjugation? To put it in linguistic terms, it is simply the alteration form in concord to the rules of grammar.</p>
@@ -66,7 +66,7 @@
     <th>COMER</th>
     </tr>
       <tr>
-       <td>yo</td>
+       <td> <strong>yo<strong> </td>
       <td>-o</td>
        <td>como</td>
     <tr>
