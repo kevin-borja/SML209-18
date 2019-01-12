@@ -66,28 +66,28 @@
     <th>COMER</th>
     </tr>
       <tr>
-       <td><strong>yo<strong></td>
-      <td>-o</td>
+       <td>yo</td>
+      <td><strong>-o<strong></td>
        <td>como</td>
     <tr>
       <td>tú</td>
-      <td>-es</td>
+      <td><strong>-es<strong></td>
        <td>comes</td>
     </tr>
      <tr>
       <td>él</td>
-       <td>-e</td>
+       <td><strong>-e>strong</td>
         <td>come</td>
       </tr>
      <tr>
       <td>nosotros</td>
-       <td>-emos</td>
+       <td><strong>-emos<strong></td>
        <td>comemos</td>
     </tr>
   </tr>
      <tr>
       <td>ellos</td>
-       <td>-en</td>
+       <td><strong>-en<strong></td>
        <td>comen</td>
     </tr>
     <table>
