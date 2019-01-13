@@ -1,4 +1,4 @@
-<h2>Phonolgy</h2>
+<h2>Phonology</h2>
 <p>Phonology is about how sounds are organised in a given language. Spanish is considered a phonetic language denoting that the spelling of the written words in Spanish have the same pronunciation. This makes it easier to spell the words in Spanish by sounding the words out. But, in order for that to happen speakers must master the phonology of the language.</p>
 <hr>
 <h3>Exercise 1</h3>
