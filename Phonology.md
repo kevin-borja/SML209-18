@@ -15,6 +15,6 @@
   
   
 <p>
-<a style="float:left;" href="Grammar.html">&#8592; previous page</a>
+<a style="float:left;" href="Grammar.html" class="btn2">&#8592; previous page</a>
 </p>
 <div style="clear:both;">  </div>
