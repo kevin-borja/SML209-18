@@ -104,14 +104,12 @@
 <div style="clear:both;">  </div>
 
    <p>
-<a style="float:left;" href="Gender.html">&#8592; previous page;</a>
+<a style="float:left;" href="Gender.html">&#8592; previous page</a>
+  <a style="float:right;" href="Phonology.html">next page &#8594;</a>
 </p>
 <div style="clear:both;">  </div>
 
-   <p>
-<a style="float:right;" href="Phonology.html">next page &#8594;</a>
-</p>
-<div style="clear:both;">  </div>
+
 
 
        
