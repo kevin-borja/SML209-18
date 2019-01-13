@@ -20,6 +20,6 @@
   </dl>
 
 <p>
-<a style="float:right;" href="Vocabulary.html" class="btn2">Next page 1 &#8594; </a>
+<a style="float:right;" href="Vocabulary.html" class="btn2">Next page &#8594; </a>
 </p>
 <div style="clear:both;">  </div>
