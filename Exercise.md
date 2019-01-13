@@ -7,11 +7,8 @@
 
 <p> now write a paragraph about yourself... </p>
   
- <p>
-          <label>Text box</label>
-          <input type = "text"
-                 id = "myText"
-                 value = "text here" />
+<textarea name="text" cols="80" rows="20">
+</textarea>
 
 <p>
 <a style="float:left;" href="Grammar.html">Back to Grammar page</a>
