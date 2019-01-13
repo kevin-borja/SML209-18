@@ -13,9 +13,5 @@
   <li>WordReference</li>
 </ul>  
 
-body {
-  background-image:ulr ("https://washingtonlee.apsva.us/wp-content/uploads/sites/38/2017/08/bienvenidos-pic-with-flags_orig.jpeg) ;
-background-size: width="813" height="457"
-background-repeat: no-repeat;
-  background-position: right top;
-}
+<body style = url(https://washingtonlee.apsva.us/wp-content/uploads/sites/38/2017/08/bienvenidos-pic-with-flags_orig.jpeg) ; background-size: 50;">
+                                                                                                                           
