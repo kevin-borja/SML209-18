@@ -13,4 +13,4 @@
   <li>WordReference</li>
 </ul>  
 
-<img style="-webkit-user-select: none;cursor: zoom-in;" src="https://washingtonlee.apsva.us/wp-content/uploads/sites/38/2017/08/bienvenidos-pic-with-flags_orig.jpeg" width="813" height="457" background: centre;>                                                                                                                           
+<img style="-webkit-user-select: none;cursor: zoom-in;" src="https://washingtonlee.apsva.us/wp-content/uploads/sites/38/2017/08/bienvenidos-pic-with-flags_orig.jpeg" width="813" height="457">                                                                                                                       
