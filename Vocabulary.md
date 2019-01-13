@@ -35,3 +35,9 @@
 <a style="float:left;" href="index.html">&#8592; previous page</a>
 </p>
 <div style="clear:both;">  </div>
+
+  <p>
+<a style="float:right;" href="Gender.html">next page  &#8594; </a>
+</p>
+<div style="clear:both;">  </div>
+
