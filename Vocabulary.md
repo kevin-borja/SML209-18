@@ -32,8 +32,8 @@
   </dl>
   
   <p>
-<a style="float:left;" href="index.html">&#8592; previous page</a>
- <a style="float:right;" href="Gender.html">next page  &#8594; </a>
+<a style="float:left;" href="index.html" class="btn2">&#8592; previous page</a>
+ <a style="float:right;" href="Gender.html" class="btn2">next page  &#8594; </a>
 </p>
 <div style="clear:both;">  </div>
 
