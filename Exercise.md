@@ -5,19 +5,13 @@
 
 <hr>
 
-<p> now write a paragraph about yourself...
+<p> now write a paragraph about yourself... </p>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  </p>
+ <p>
+          <label>Text box</label>
+          <input type = "text"
+                 id = "myText"
+                 value = "text here" />
 
 <p>
 <a style="float:left;" href="Grammar.html">Back to Grammar page</a>
