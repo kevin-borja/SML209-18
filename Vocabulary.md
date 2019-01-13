@@ -30,3 +30,8 @@
  <dt>Online dictionary:</dt>
  <dd> <a href="http://www.wordreference.com/"> Visit Wordreference</a> </dd>
   </dl>
+  
+  <p>
+<a style="float:left;" href="index.html">&#8592; previous page</a>
+</p>
+<div style="clear:both;">  </div>
