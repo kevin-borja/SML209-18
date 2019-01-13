@@ -51,3 +51,7 @@
  <p>Click on dots on the image below to learn new vocabulary and look closely to the article. Is there a pattern? If so, what is it. </p>
  <iframe src="https://h5p.org/h5p/embed/406480" width="1090" height="795" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
+ <hr>
+ 
+ <p> <a href="https://www.fluentu.com/blog/spanish/spanish-gender-rules/"> Visit here</a> to learn more about different type of rules involving grammatical gender.</p>
+ 
