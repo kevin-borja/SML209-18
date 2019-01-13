@@ -55,3 +55,13 @@
  
  <p> <a href="https://www.fluentu.com/blog/spanish/spanish-gender-rules/"> Visit here</a> to learn more about different type of rules involving grammatical gender.</p>
  
+ <p>
+<a style="float:left;" href="Vocabulary.html">&#8592; previous page</a>
+</p>
+<div style="clear:both;">  </div>
+
+
+ <p>
+<a style="float:right;" href="Grammar.html">next page  &#8594;</a>
+</p>
+<div style="clear:both;">  </div>
