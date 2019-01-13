@@ -99,7 +99,17 @@
    <p> For now click the link below to the following exercise and use the -ER verb conjugation and the pronoun rule to complete the following sentences. </p>
       
       <p>
-<a style="float:right;" href="Exercise.html">Go to Exercise</a>
+<a style="float:centre;" href="Exercise.html">Go to Exercise</a>
+</p>
+<div style="clear:both;">  </div>
+
+   <p>
+<a style="float:left;" href="Gender.html">&#8592; previous page;</a>
+</p>
+<div style="clear:both;">  </div>
+
+   <p>
+<a style="float:right;" href="Phonology.html">next page &#8594;</a>
 </p>
 <div style="clear:both;">  </div>
 
